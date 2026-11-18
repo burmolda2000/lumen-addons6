@@ -1,0 +1,13 @@
+{
+  "key.category.lumenx.addons": "Lumen Addons",
+  "key.lumenx.item_swap": "Замена предмета: заменить",
+  "key.lumenx.mod.item_swap": "Вкл/выкл: Замена предметов",
+  "key.lumenx.mod.trajectory": "Вкл/выкл: Траектория",
+  "key.lumenx.mod.shulker_preview": "Вкл/выкл: Предпросмотр шалкера",
+  "key.lumenx.mod.weapon_trails": "Вкл/выкл: Следы оружия",
+  "key.lumenx.mod.custom_hand": "Вкл/выкл: Своя рука",
+  "key.lumenx.mod.low_fire": "Вкл/выкл: Меньше огня",
+  "key.lumenx.mod.saturation_hud": "Вкл/выкл: Насыщение",
+  "key.lumenx.mod.hit_range": "Вкл/выкл: Радиус удара",
+  "key.lumenx.mod.inventory_hud": "Вкл/выкл: Инвентарь на экране"
+}
